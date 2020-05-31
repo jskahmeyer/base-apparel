@@ -121,6 +121,7 @@ form input {
   body {
     background-color: rgba(249, 98, 98, 0.03);
     background-image: url(images/bg-pattern-desktop.svg);
+    max-height: 50rem;
   }
 
   form {
